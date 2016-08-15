@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "blue-wire",
+          "submenu": [
+            {
+              "label": "Time passed",
+              "command": "blue-wire:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
