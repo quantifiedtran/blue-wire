@@ -2,17 +2,24 @@
   "name": "blue-wire",
   "main": "./lib/blue-wire",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "A self-destruct for unhealthy work patterns",
   "keywords": [
+    "self care",
+    "selfcare",
+    "overworking",
+    "overworked",
+    "stop",
+    "working",
+    "self management"
   ],
-  "activationCommands": {
-    "atom-workspace": "blue-wire:toggle"
-  },
   "repository": "https://github.com/atom/blue-wire",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "joi": "^9.0.4",
+    "jquery": "^3.1.1",
+    "underscore": "^1.8.3"
   }
 }
