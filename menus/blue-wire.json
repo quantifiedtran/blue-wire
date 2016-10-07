@@ -7,8 +7,8 @@
           "label": "blue-wire",
           "submenu": [
             {
-              "label": "Time passed",
-              "command": "blue-wire:toggle"
+              "label": "Upcoming kicks",
+              "command": "blue-wire:pollKicks"
             }
           ]
         }
