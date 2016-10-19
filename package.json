@@ -1,7 +1,7 @@
 {
   "name": "blue-wire",
   "main": "./lib/blue-wire",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A self-destruct for unhealthy work patterns",
   "keywords": [
     "self care",
@@ -18,8 +18,8 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "joi": "^9.0.4",
     "jquery": "^3.1.1",
+    "left-pad": "^1.1.3",
     "underscore": "^1.8.3"
   }
 }
