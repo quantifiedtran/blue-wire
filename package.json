@@ -12,7 +12,7 @@
     "working",
     "self management"
   ],
-  "repository": "https://github.com/atom/blue-wire",
+  "repository": "https://github.com/quantifiedtran/blue-wire",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
